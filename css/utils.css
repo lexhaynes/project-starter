@@ -1,5 +1,22 @@
 .flex-container {display:flex;}
+
 .flex-center {
 	align-items: center;  
 	justify-content: center;
+}
+
+.flex-vcenter {
+	align-items:center;
+}
+
+.flex-space-between {
+	justify-content: space-between;
+}
+
+.grid-100 {
+	width:100%;
+}
+
+.grid-90 {
+	width:90%;
 }

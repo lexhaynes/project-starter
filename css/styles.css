@@ -5,3 +5,12 @@ html {
 body {
 	font-family: "Lato";
 }
+
+.nav {
+	height:50px;
+	font-size:1.15rem;
+	background:#666;
+	color:#fff;
+}
+
+	.logo, .logo:hover, .logo:active, .logo:visited { text-decoration:none; color:#fff; }

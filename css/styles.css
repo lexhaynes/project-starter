@@ -14,3 +14,11 @@ body {
 }
 
 	.logo, .logo:hover, .logo:active, .logo:visited { text-decoration:none; color:#fff; }
+
+
+.footer {
+	position: absolute;
+	bottom:0;
+	width:100%;
+	font-size:0.9rem;
+}
